@@ -17,7 +17,7 @@ Install the package
 or if you're using npm
 
 ```bash
-~$ my-project> npm install https://github.com/oreal-solutions/react-mvvm.git
+~$ npm install https://github.com/oreal-solutions/react-mvvm.git
 ```
 
 Define your view model.
