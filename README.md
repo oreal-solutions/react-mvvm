@@ -1,5 +1,7 @@
 # React MVVM
 
+![Package CI](https://github.com/oreal-solutions/react-mvvm/workflows/Package%20CI/badge.svg)
+
 MVVM with React done the right way.
 
 This project is inspired by the [Provider Architecture](lib/react_mvvm.js) by [FilledStacks](https://www.filledstacks.com).
