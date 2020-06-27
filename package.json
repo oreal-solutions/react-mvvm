@@ -1,0 +1,32 @@
+{
+  "name": "react-mvvm",
+  "version": "1.0.0",
+  "description": "Npm package for implementing the MVVM pattern with react.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oreal-solutions/react-mvvm.git"
+  },
+  "keywords": [
+    "react",
+    "mvvm",
+    "mvc",
+    "ui",
+    "reactive-react"
+  ],
+  "author": "The LytOwl Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oreal-solutions/react-mvvm/issues"
+  },
+  "homepage": "https://github.com/oreal-solutions/react-mvvm#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
