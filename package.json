@@ -1,6 +1,6 @@
 {
   "name": "react-mvvm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Npm package for implementing the MVVM pattern with react.",
   "main": "index.js",
   "directories": {
