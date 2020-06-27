@@ -94,3 +94,7 @@ A [view model](<(lib/react_mvvm.js)>) is the state of a view. It can also have m
 ### ViewModelConsumer
 
 The [ViewModelConsumer](<(lib/react_mvvm.js)>) class subclasses `React.Component` and displays the state of its view model. It listens for state changes from the given view model and call `React.Component.setState()` when the state has changed. Subclasses should implement `ViewModelConsumer.onRender` and not `React.Component.render` directly.
+
+## LICENSE
+
+This package is licensed under an MIT like license. A copy can be found in the [LICENSE](LICENSE) file that comes with this package.
